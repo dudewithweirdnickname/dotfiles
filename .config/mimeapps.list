@@ -1,0 +1,15 @@
+[Default Applications]
+image/jpg=sxiv.desktop
+application/pdf=org.pwmt.zathura.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+text=nvim.desktop
+text/plain=editor.desktop
+image/jpeg=sxiv.desktop
+image/png=sxiv.desktop
+
+[Added Associations]
+text/x-shellscript=nvim.desktop;
+text/plain=firefox.desktop;
+image/jpeg=sxiv.desktop;
+image/png=sxiv.desktop;
