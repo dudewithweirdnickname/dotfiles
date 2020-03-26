@@ -1,7 +1,7 @@
 #!/bin/sh
+dwmblocks &
 remaps.sh &
 dunst &
-dwmblocks &
-setwall.sh &
 xcompmgr &
-#notify-send 'daily reminder' 'if you work hard enough, you can replace depression with exhaustion'
+xwallpaper --zoom ~/pics/wallpapers/blood-moon* &
+notify-send 'daily reminder' 'if you work hard enough, you can replace depression with exhaustion'
